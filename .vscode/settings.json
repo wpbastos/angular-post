@@ -1,0 +1,9 @@
+{
+  "editor.wordWrapColumn": 150,
+  "editor.wordWrap": "wordWrapColumn",
+  "prettier.printWidth": 120,
+  "html.format.wrapLineLength": 0,
+  "cSpell.words": [
+    "signup"
+  ]
+}
