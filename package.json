@@ -13,6 +13,10 @@
     "url": "https://github.com/wpbastos/angular-post/issues"
   },
   "private": true,
+  "main": "server.js",
+  "engines": {
+    "node": "12.x"
+  },
   "scripts": {
     "ng": "ng",
     "start:dev": "ng serve",
